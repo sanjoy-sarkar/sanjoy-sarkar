@@ -6,13 +6,15 @@ Full-Stack Developer from India.
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,html,css)](https://skillicons.dev)
+![JavaScript, TypeScript, React, Next](https://skillicons.dev/icons?i=js,ts,react,next) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+![Tailwind, Bootstrap, HTML, CSS](https://skillicons.dev/icons?i=tailwind,bootstrap,html,css)
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,nodejs,express)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,git,github)](https://skillicons.dev)
+![Python, FastAPI, Node.js, Express](https://skillicons.dev/icons?i=python,fastapi,nodejs,express) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+![MongoDB, MySQL, Git, GitHub](https://skillicons.dev/icons?i=mongodb,mysql,git,github)
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,pycharm)](https://skillicons.dev)
+![Windows, Linux, VSCode, PyCharm](https://skillicons.dev/icons?i=windows,linux,vscode,pycharm)
 
 
 ### Socials
