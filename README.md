@@ -18,64 +18,64 @@
 
 <p align="center">
   <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40px" />
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="38px" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40px" />
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="38px" />
   </a>
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" width="40px" />
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="38px" />
   </a>
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=next" alt="Next.js" width="40px" />
+    <img src="https://skillicons.dev/icons?i=next" alt="Next.js" width="38px" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40px" />
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="38px" />
   </a>
   <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40px" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="38px" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40px" />
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="38px" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40px" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="38px" />
   </a>
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40px" />
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="38px" />
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40px" />
+    <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="38px" />
   </a>
   <a href="https://nodejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40px" />
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="38px" />
   </a>
   <a href="https://expressjs.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40px" />
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="38px" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40px" />
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="38px" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40px" />
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="38px" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40px" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="38px" />
   </a>
   <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40px" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="38px" />
   </a>
   <a href="https://www.microsoft.com/en-us/windows" target="_blank">
-    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40px" />
+    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="38px" />
   </a>
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40px" />
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="38px" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40px" />
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="38px" />
   </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="40px" />
+    <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="38px" />
   </a>
 </p>
 <br>
@@ -89,7 +89,6 @@
 ![IPFS](https://img.shields.io/badge/IPFS-4A9E94?style=flat&logo=ipfs&logoColor=white)
 
 </div>
-<br>
 
 ## 📬 Get in touch
 
