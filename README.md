@@ -109,18 +109,18 @@
     </a>
   </p>
 
-  <h3>💻 GitHub Profile Stats</h3>
+  <h3 align="center">💻 GitHub Profile Stats</h3>
 
-<table>
+<table align="center">
   <tr>
     <td>
       <a href="https://github.com/sanjoy-sarkar">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanjoy-sarkar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" height="192px alt="sjstats" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanjoy-sarkar&show_icons=true&theme=midnight_purple&include_all_commits=true&count_private=true&hide_border=true" alt="sjstats" />
       </a>
     </td>
     <td>
       <a href="https://github.com/sanjoy-sarkar">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanjoy-sarkar&theme=algolia&hide=c%2B%2B&hide_border=true" height="192px alt="sjtop" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanjoy-sarkar&theme=midnight_purple&hide=c%2B%2B&hide_border=true" alt="sjtop" />
       </a>
     </td>
   </tr>
